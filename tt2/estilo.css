@@ -1,0 +1,26 @@
+:root{
+    --azul: #1DA1F2;
+    --arroba: #657786;
+}
+.icone{
+    position: relative;
+    left: 600px;
+}
+.icon{
+    text-decoration: none;
+    color: var(--azul);
+}
+.perfil{
+    border-radius: 50%;
+}
+#arroba{
+    color: var(--arroba);
+}
+.hash{
+    color: black;
+}
+p{
+    font-family: 'Nunito', sans-serif;
+}
+h1{font-family: 'Nunito', sans-serif;}
+h2{font-family: 'Nunito', sans-serif;}
